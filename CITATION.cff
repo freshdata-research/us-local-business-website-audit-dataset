@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you reference this empirical benchmark or sample dataset, please cite it as below."
+title: "US Local Business Website, SSL & Ad-Pixel Audit Sample Dataset (2026)"
+version: "2026.11"
+date-released: 2026-11-07
+url: "https://freshdata.today/research/texas-local-business-website-benchmark-2026/"
+repository-code: "https://github.com/freshdata-research/us-local-business-website-audit-dataset"
+license: CC-BY-NC-4.0
+authors:
+  - name: "FreshData Research"
+    website: "https://freshdata.today"
+keywords:
+  - b2b-leads
+  - website-audit
+  - ssl-tls
+  - mobile-viewport
+  - local-seo
+  - lead-generation
