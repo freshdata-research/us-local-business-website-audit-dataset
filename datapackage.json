@@ -1,0 +1,31 @@
+{
+  "profile": "tabular-data-package",
+  "name": "us-local-business-website-audit-sample-2026",
+  "title": "US Local Business Website, SSL & Ad-Pixel Audit Sample Dataset (2026)",
+  "homepage": "https://freshdata.today/",
+  "version": "2026.11",
+  "licenses": [
+    {
+      "name": "CC-BY-NC-4.0",
+      "path": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "title": "Creative Commons Attribution-NonCommercial 4.0 International"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "FreshData Research",
+      "role": "publisher",
+      "path": "https://freshdata.today/"
+    }
+  ],
+  "resources": [
+    {
+      "path": "freshdata-texas-b2b-website-audit-sample.csv",
+      "profile": "tabular-data-resource",
+      "name": "texas-batch-1-sample",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8"
+    }
+  ]
+}
